@@ -17,3 +17,10 @@ Qwen3 14B Ollama:
 - parameters: 14.8B
 - quantization: Q4_K_M
 - size: 9.3GB
+<br>
+
+## Experiments
+
+- Exp1 - Set up the UV project folder and Python environment on Mac<br>
+(Everything is being run locally on the Mac desktop)<br>
+https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp1%20-%20Set%20up%20the%20UV%20project%20folder%20and%20python%20environment
