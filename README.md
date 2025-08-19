@@ -17,6 +17,11 @@ Qwen3 14B Ollama:
 - parameters: 14.8B
 - quantization: Q4_K_M
 - size: 9.3GB
+
+Qwen3 30B Ollama:
+- parameters: 30.5B
+- quantization: Q4_K_M
+- size: 19GB
 <br>
 
 ## Experiments
