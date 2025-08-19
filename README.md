@@ -24,3 +24,7 @@ Qwen3 14B Ollama:
 - Exp1 - Set up the UV project folder and Python environment on Mac<br>
 (Everything is being run locally on the Mac desktop)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp1%20-%20Set%20up%20the%20UV%20project%20folder%20and%20python%20environment
+
+- Exp2 - Simple Ollama Python code in a Jupyter notebook<br>
+(Set up the code for chat inference)<br>
+https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp2%20-%20Simple%20ollama%20python%20code%20in%20a%20jupyter%20notebook
