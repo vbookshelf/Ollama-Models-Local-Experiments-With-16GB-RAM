@@ -28,3 +28,7 @@ https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp1%20-%
 - Exp2 - Simple Ollama Python code in a Jupyter notebook<br>
 (Set up the code for chat inference)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp2%20-%20Simple%20ollama%20python%20code%20in%20a%20jupyter%20notebook
+
+- Exp3 - Use Qwen3 models in a simple ReAct workflow<br>
+(Using the simple "dog weights" example. Includes a python chat loop.)<br>
+https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp3%20-%20Use%20Qwen3%20in%20a%20simple%20ReAct%20lworkflow
