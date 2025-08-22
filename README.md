@@ -80,6 +80,10 @@ https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree
 - Exp5 - Qwen3 Email responder llm workflow<br>
 https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp5%20-%20Qwen3%20Email%20responder%20llm%20workflow
 
+- Exp6 - Two agents chatting in a panel discussion with the user as moderator<br>
+https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/edit/main/README.md
+
+
 
 ## Notes
 
