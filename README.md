@@ -91,6 +91,7 @@ https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp3%20-%
 https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp4%20-%20Qwen3%20research%20assistant%20w%20RAG%20search%20and%20web%20search
 
 - Exp5 - Qwen3 Email responder llm workflow<br>
+(God example of an alternative router setup that does not rely on accurate JSON output)<br>
 https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp5%20-%20Qwen3%20Email%20responder%20llm%20workflow
 
 - Exp6 - Two agents chatting in a panel discussion with the user as moderator<br>
