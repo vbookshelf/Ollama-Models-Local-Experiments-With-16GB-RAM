@@ -96,6 +96,10 @@ https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree
 - Exp6 - Two agents chatting in a panel discussion with the user as moderator<br>
 https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/edit/main/README.md
 
+- Exp7 - Gemma3 Tests in the five scenarios<br>
+(Five notebooks)<br>
+https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp7%20-%20Gemma3%20Tests
+
 
 
 ## Notes
