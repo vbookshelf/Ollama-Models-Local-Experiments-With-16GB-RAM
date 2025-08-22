@@ -73,6 +73,10 @@ https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp2%20-%
 (Using the simple "dog weights" example. Includes a python chat loop.)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp3%20-%20Use%20Qwen3%20in%20a%20simple%20ReAct%20lworkflow
 
+- Exp4 - Qwen3 research assistant w RAG search and Tavily web search<br>
+(ReAct workflow)<br>
+https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp4%20-%20Qwen3%20research%20assistant%20w%20RAG%20search%20and%20web%20search
+
 
 ## Notes
 
