@@ -77,3 +77,4 @@ https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp3%20-%
 ## Notes
 
 - A models ability to follow the ouput formatting instructions given in the system message, can degrade as the context memory fills up. Especially relevant when RAG search or web search results are added to the context memory.
+- Almost all the errors that occur are related to incorrect JSON output formatting i.e. the model's output is not being formatted in the specified way or the model is not outputting JSON at all. As a result, when using a ReAct workflow, the router cannot route to the next step and the code fails. One solution could be to let the model output text and also make the router an LLM so that it can simple read the plain text output and decide what to do.
