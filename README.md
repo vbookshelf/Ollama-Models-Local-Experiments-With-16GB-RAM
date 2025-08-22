@@ -45,6 +45,16 @@ Gemma3 12B Ollama:
 - size: 8.16GB
 - context: 128k
 - thinking: No
+
+### Phi4
+
+Phi4 14B Ollama:
+- parameters: 14.7B
+- quantization: Q4_K_M
+- size: 9.16GB
+- context: 16k
+- thinking: No
+  
 <br>
 
 ## Experiments
