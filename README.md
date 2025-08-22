@@ -1,5 +1,5 @@
-# Qwen3 with the Ollama Python Package - Local Experiments
-My experiments using the Ollama python package to run Qwen3 4B, 8B and 14B locally on an M4 Macbook Air, 16GB RAM - in a jupyter notebook.
+# Ollama Python Package - Local Experiments
+My experiments using the Ollama python package to run models locally on an M4 Macbook Air, 16GB RAM - in a Jupyter notebook.
 <br>
 <br>
 
@@ -30,7 +30,7 @@ Qwen3 30B Ollama:
 (Everything is being run locally on the Mac desktop)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp1%20-%20Set%20up%20the%20UV%20project%20folder%20and%20python%20environment
 
-- Exp2 - Simple Ollama Python code in a Jupyter notebook<br>
+- Exp2 - Simple Qwen3 Ollama Python code in a Jupyter notebook<br>
 (Set up the code for chat inference)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp2%20-%20Simple%20ollama%20python%20code%20in%20a%20jupyter%20notebook
 
