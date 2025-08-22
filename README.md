@@ -1,5 +1,6 @@
 # Ollama Python Package - Local Experiments
 My experiments using the Ollama python package to run models locally on an M4 Macbook Air, 16GB RAM - in a Jupyter notebook.
+The goal is to build intuition.
 <br>
 <br>
 - Qwen3: 4B, 8B, 14B<br>
