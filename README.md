@@ -4,6 +4,7 @@ My experiments using the Ollama python package to run models locally on an M4 Ma
 <br>
 - Qwen3: 4B, 8B, 14B<br>
 - Gemma3: 12B
+- Phi4: 14B
 <br>
 
 ### Qwen3
