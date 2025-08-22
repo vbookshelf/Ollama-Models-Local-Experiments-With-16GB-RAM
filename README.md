@@ -8,6 +8,19 @@ The goal is to build intuition.
 - Phi4: 14B
 <br>
 
+### Test scenarios
+
+- Exp1-model_name-Ollama-Simple-Chat
+- Exp2-model_name-Ollama-Simple-ReAct-Workflow
+- Exp3-model_name-Ollama-Email-Responder-LLM-Workflow
+- Exp4-model_name-Ollama-Research-Assistant-with-RAG-and-Web-Search
+- Exp5-model_name-Ollama-Multi-Agent-Group-Chat-with-State-Dict-Memory
+
+### Test questions
+- Who let the dogs out?
+- Has OpenAi released and new open source models recently?
+- I would like to build an invisibility cloak similar to the one that Harry Potter uses. Please suggest some reserach papers I can consult.
+
 ### Qwen3
 
 Qwen3 4B Ollama:
