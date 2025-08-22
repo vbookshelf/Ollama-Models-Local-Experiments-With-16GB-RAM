@@ -30,7 +30,7 @@ Qwen3 14B Ollama:
 - context: 40k
 - thinking: Yes
 
-Qwen3 30B Ollama:
+Qwen3 30B Ollama: (Runs on 16GB Mac, but very slow.)
 - parameters: 30.5B
 - quantization: Q4_K_M
 - size: 19GB
