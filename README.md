@@ -18,8 +18,8 @@ The goal is to build intuition.
 
 ### Test questions
 - Who let the dogs out?
-- Has OpenAi released and new open source models recently?
-- I would like to build an invisibility cloak similar to the one that Harry Potter uses. Please suggest some reserach papers I can consult.
+- Has OpenAi released any new open source models recently?
+- I would like to build an invisibility cloak similar to the one that Harry Potter uses. Please suggest some research papers I can consult.
 
 ### Qwen3
 
