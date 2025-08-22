@@ -2,26 +2,49 @@
 My experiments using the Ollama python package to run models locally on an M4 Macbook Air, 16GB RAM - in a Jupyter notebook.
 <br>
 <br>
+- Qwen3: 4B, 8B, 14B<br>
+- Gemma3: 12B
+<br>
+
+### Qwen3
 
 Qwen3 4B Ollama:
 - parameters: 4.02B
 - quantization: Q4_K_M
 - size: 2.5GB
+- context: 256k
+- thinking: Yes
 
 Qwen3 8B Ollama:
 - parameters: 8.19B
 - quantization: Q4_K_M
 - size: 5.2GB
+- context: 40k
+- thinking: Yes
+
 
 Qwen3 14B Ollama:
 - parameters: 14.8B
 - quantization: Q4_K_M
 - size: 9.3GB
+- context: 40k
+- thinking: Yes
 
 Qwen3 30B Ollama:
 - parameters: 30.5B
 - quantization: Q4_K_M
 - size: 19GB
+- context: 256k
+- thinking: Yes
+
+### Gemma3
+
+Gemma3 12B Ollama:
+- parameters: 12.2B
+- quantization: Q4_K_M
+- size: 8.16GB
+- context: 128k
+- thinking: No
 <br>
 
 ## Experiments
