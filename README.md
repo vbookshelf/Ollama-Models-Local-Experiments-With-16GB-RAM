@@ -60,3 +60,8 @@ https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp2%20-%
 - Exp3 - Use Qwen3 models in a simple ReAct workflow<br>
 (Using the simple "dog weights" example. Includes a python chat loop.)<br>
 https://github.com/vbookshelf/Qwen3-Ollama-Local-Experiments/tree/main/Exp3%20-%20Use%20Qwen3%20in%20a%20simple%20ReAct%20lworkflow
+
+
+## Notes
+
+- A models ability to follow the ouput formatting instructions given in the system message, can degrade as the context memory fills up. Especially relevant when RAG search or web search results are added to the context memory.
