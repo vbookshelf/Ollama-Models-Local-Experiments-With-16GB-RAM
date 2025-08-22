@@ -100,7 +100,9 @@ https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/edit
 (Five notebooks)<br>
 https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp7%20-%20Gemma3%20Tests
 
-
+- Exp8 - Phi4 Tests in the five scenarios<br>
+(Five notebooks)<br>
+https://github.com/vbookshelf/Ollama-Models-Local-Experiments-With-16GB-RAM/tree/main/Exp8%20-%20Phi4%20Tests
 
 ## Notes
 
