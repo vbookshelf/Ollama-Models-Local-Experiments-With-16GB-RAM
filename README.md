@@ -61,6 +61,13 @@ Gemma3 12B Ollama:
 - context: 128k
 - thinking: No
 
+Gemma3 27B Ollama: (Does not run on 16GB Mac. Inference too slow.)
+- parameters: 27.4B
+- quantization: Q4_K_M
+- size: 17GB
+- context: 128k
+- thinking: No
+
 ### Phi4
 
 Phi4 14B Ollama:
